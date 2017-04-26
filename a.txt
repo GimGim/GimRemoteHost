@@ -1,2 +1,6 @@
 insert a
+<<<<<<< HEAD
 master branch``
+=======
+branch file1
+>>>>>>> file1
